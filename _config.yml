@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Pannawit Samatthiyadikun"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate"
+  bio              : "Data Scientist.<br/>NLP / Predictive / Signal / Sequential / Bayes"
   location         : "Tokyo, Japan"
   email            : "s.pannawit@gmail.com"
   uri              :
@@ -242,14 +242,38 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # All folder
   - scope:
-      path: ""
-      type: posts
+    path: ""
+    type: posts     # "posts", "pages", "portfolio"
+  values:
+    layout: single  # single, archive, home, splash,
+    author_profile: true
+    read_time: true
+    comments: true
+    share: true
+    related: true
+  # "posts" folder: normal blog post by date
+  - scope:
+      path: "posts"
+      type: posts     # "posts", "pages", "portfolio"
     values:
-      layout: single
+      layout: single  # single, archive, home, splash,
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+  # _pages
+  # - scope:
+  #     path: "_pages"
+  #     type: "pages"
+  #   values:
+  #     layout: single
+  # _projects --- Each projects? Tobe modify further
+  # -
+  #   scope:
+  #     path: "_projects"
+  #     type: "pages" # previously `page` in Jekyll 2.2.
+  #   values:
+  #     layout: "project" # overrides previous default layout
