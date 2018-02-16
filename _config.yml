@@ -145,7 +145,7 @@ exclude:
   - README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
-  # - /test # ignore Minimal Mistakes /test
+  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -244,18 +244,7 @@ compress_html:
 defaults:
   # All folder
   - scope:
-    path: ""
-    type: posts     # "posts", "pages", "portfolio"
-  values:
-    layout: single  # single, archive, home, splash,
-    author_profile: true
-    read_time: true
-    comments: true
-    share: true
-    related: true
-  # "posts" folder: normal blog post by date
-  - scope:
-      path: "posts"
+      path: ""
       type: posts     # "posts", "pages", "portfolio"
     values:
       layout: single  # single, archive, home, splash,
@@ -264,6 +253,50 @@ defaults:
       comments: true
       share: true
       related: true
+  # "posts" folder separated by language: normal blog post by date
+  # - scope:
+  #     path: "posts"
+  #     type: posts     # "posts", "pages", "portfolio"
+  #   values:
+  #     layout: single  # single, archive, home, splash,
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  # - scope:
+  #     path: "posts_th"
+  #     type: posts     # "posts", "pages", "portfolio"
+  #   values:
+  #     lang: th        # th, en, jp
+  #     layout: single  # single, archive, home, splash,
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  # - scope:
+  #     path: "posts_en"
+  #     type: posts     # "posts", "pages", "portfolio"
+  #   values:
+  #     lang: en        # th, en, jp
+  #     layout: single  # single, archive, home, splash,
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  # - scope:
+  #     path: "posts_jp"
+  #     type: posts     # "posts", "pages", "portfolio"
+  #   values:
+  #     lang: jp        # th, en, jp
+  #     layout: single  # single, archive, home, splash,
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _pages
   # - scope:
   #     path: "_pages"
