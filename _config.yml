@@ -92,9 +92,11 @@ analytics:
 author:
   name             : "Pannawit Samatthiyadikun"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist.<br/>NLP / Predictive / Signal / Sequential / Bayes"
+  bio              : "<b>Data Scientist</b><br/>
+                      (Machine Learning Engineer / Inference & Applied Scientist)<br/>
+                      NLP / Predictive / Signal / Sequential / Bayes"
   location         : "Tokyo, Japan"
-  email            : "s.pannawit@gmail.com"
+  email            : "s[(:*dot*:)]pannawit[(:*at*:)]gmail[(:*dot*:)]com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
