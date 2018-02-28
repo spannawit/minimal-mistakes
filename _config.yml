@@ -92,8 +92,7 @@ analytics:
 author:
   name             : "Pannawit Samatthiyadikun"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "<b>Data Scientist</b><br/>
-                      (Machine Learning Engineer / Inference & Applied Scientist)<br/>
+  bio              : "<b>Data Scientist</b>: Machine Learning Engineer, Inference & Applied Scientist<br/>
                       NLP / Predictive / Signal / Sequential / Bayes"
   location         : "Tokyo, Japan"
   email            : "s[(:*dot*:)]pannawit[(:*at*:)]gmail[(:*dot*:)]com"
