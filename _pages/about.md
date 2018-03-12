@@ -15,6 +15,10 @@ permalink: /about/
 | 2012 -- 2017 | Research Assistant, [Takasu Laboratory](http://www.ldear.nii.ac.jp/en/), [National Institute of Informatics (NII)](http://www.nii.ac.jp/en/), Japan |
 | 2017 ~       | Data Analyst & Scientist -- Machine Learning & Artificial Intelligence Engineer, [Arblet Inc.](https://www.arblet.com/), Japan |
 
+| Interests | Programming |
+| --------- | ----------- |
+| <ul><li>Multivariate Statistic</li><li>Natural Language Processing</li><li>Nueral Network & Sequential Variant Models</li><li>Numerical Analysis & Stochastic Methods</li><li>Predictive Models: Regression, Vector Machine, etc.</li><li>Probability Graphical Model & Bayesian Inference</li><li>Recommendation Systems</li><li>Signal Processing</li></ul> | <ul><li>General Programming [C/C++/JAVA]</li><li>Scientific Programing [Python/MATLAB/Octave]</li><li>Web Application Programing [PHP/JS/SQL]</li></ul> |
+
 ## Interests
 
 - Multivariate Statistic
@@ -26,7 +30,7 @@ permalink: /about/
 - Recommendation Systems
 - Signal Processing
 
-## Programming Experience
+## Programming
 
 - General Programming [C/C++/JAVA]
 - Scientific Programing [Python/MATLAB/Octave]
