@@ -17,21 +17,4 @@ permalink: /about/
 
 | Interests | Programming |
 | --------- | ----------- |
-| <ul><li>Multivariate Statistic</li><li>Natural Language Processing</li><li>Nueral Network & Sequential Variant Models</li><li>Numerical Analysis & Stochastic Methods</li><li>Predictive Models: Regression, Vector Machine, etc.</li><li>Probability Graphical Model & Bayesian Inference</li><li>Recommendation Systems</li><li>Signal Processing</li></ul> | <ul><li>General Programming [C/C++/JAVA]</li><li>Scientific Programing [Python/MATLAB/Octave]</li><li>Web Application Programing [PHP/JS/SQL]</li></ul> |
-
-## Interests
-
-- Multivariate Statistic
-- Natural Language Processing
-- Nueral Network & Sequential Variant Models
-- Numerical Analysis & Stochastic Methods
-- Predictive Models: Regression, Vector Machine, etc.
-- Probability Graphical Model & Bayesian Inference
-- Recommendation Systems
-- Signal Processing
-
-## Programming
-
-- General Programming [C/C++/JAVA]
-- Scientific Programing [Python/MATLAB/Octave]
-- Web Application Programing [PHP/JS/SQL]
+| {::nomarkdown}<ul><li>Multivariate Statistic</li><li>Natural Language Processing</li><li>Nueral Network & Sequential Variant Models</li><li>Numerical Analysis & Stochastic Methods</li><li>Predictive Models: Regression, Vector Machine, etc.</li><li>Probability Graphical Model & Bayesian Inference</li><li>Recommendation Systems</li><li>Signal Processing</li></ul>{:/} | {::nomarkdown}<ul><li>Scientific Programing [Python/MATLAB/Octave]</li><li>Web Application Programing [PHP/JS/SQL]</li></ul>{:/} |
