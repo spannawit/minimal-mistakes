@@ -92,8 +92,7 @@ analytics:
 author:
   name             : "Pannawit Samatthiyadikun"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "<b>Data Scientist</b>: Machine Learning Engineer, Inference & Applied Scientist<br/>
-                      NLP / Predictive / Signal / Sequential / Bayes"
+  bio              : "Thai geek who is living in 2.5 dimension."
   location         : "Tokyo, Japan"
   email            : "s[(:*dot*:)]pannawit[(:*at*:)]gmail[(:*dot*:)]com"
   uri              :
@@ -305,11 +304,12 @@ defaults:
   #     share: true
   #     related: true
   # _pages
-  # - scope:
-  #     path: "_pages"
-  #     type: "pages"
-  #   values:
-  #     layout: single
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
   # _projects --- Each projects? Tobe modify further
   # -
   #   scope:
