@@ -280,8 +280,8 @@ defaults:
       layout: single  # single, archive, home, splash,
       author_profile: true
       read_time: true
-      comments: true
       share: true
+      show_date: true
       related: true
   # "posts" folder separated by language: normal blog post by date
   # - scope:
