@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -100,6 +100,8 @@ author:
   bio              : "Thai geek who is living in 2.5 dimension."
   location         : "Tokyo, Japan"
   email            : "s[(:*dot*:)]pannawit[(:*at*:)]gmail[(:*dot*:)]com"
+  linkedin         : "pannawit-samatthiyadikun-1221025"
+  github           : "spannawit"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
